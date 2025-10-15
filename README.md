@@ -86,3 +86,12 @@ Pre-requisite<br>
 
 ![20220617_161408](https://github.com/user-attachments/assets/a8b6b86d-92a3-430c-bf88-69ef60f21dbd)
 
+#
+
+การใส่ API Token<br>
+
+![Code API](https://github.com/user-attachments/assets/2f2ee595-5572-4753-83e5-8e61916f5c16)
+
+อันนี้ของ Exchange Rate<br>
+
+![Code API 2](https://github.com/user-attachments/assets/2a8179c9-3bd9-4c4d-944f-72daad5d805c)
